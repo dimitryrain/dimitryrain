@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Lucas 👋
 
-<!--
-**dimitryrain/dimitryrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student and IT Technician from Brazil, interested in software development and information technology.
 
-Here are some ideas to get you started:
+I currently work mainly with **Java, Python and SQL**, and have experience through my studies with databases, computer networks, technical support and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+
+- 🎓 Software Engineering student at Unileste
+- 💻 IT Technician graduated from IFMG
+- 🌱 Currently improving my skills in software development
+- 🔎 Looking for my first professional opportunity in technology
+
+### Featured project
+
+**[Discord Sticker Album](https://github.com/dimitryrain/discord-sticker-album)**  
+A Discord bot built with **Java, JDA, Maven and SQLite**, featuring sticker packs, persistent inventories, albums, trading, rankings and automated tests.
+
+### Technologies
+
+`Java` · `Python` · `SQL` · `MySQL` · `JavaScript` · `HTML` · `CSS` · `PHP` · `Git` · `Maven` · `SQLite`
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/lucas-lima-ferreira-dev/)
